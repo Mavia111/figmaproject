@@ -1,4 +1,3 @@
-import { Heading_1 } from "./Heading";
 
 export function Navbar(){
     return(
